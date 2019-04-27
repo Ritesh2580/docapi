@@ -1,1 +1,1 @@
-javac -classpath c:\tomcat9\webapps\Upxselling\WEB-INF\lib\*;..\..\..\;. *.java
+javac -classpath c:\tomcat9\webapps\docapi\WEB-INF\lib\*;..\..\..\;. *.java
